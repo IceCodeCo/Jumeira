@@ -1,0 +1,693 @@
+# Copyright (C) 2021-2024 Safelayout
+# This file is distributed under the same license as the Safelayout Elegant Icons plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Safelayout Elegant Icons 1.1.7\n"
+"POT-Creation-Date: 2024-11-13 12:49+0330\n"
+"PO-Revision-Date: 2024-11-13 12:49+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/plugin.js:1 src/icon/index.js:15 src/mce/mce-plugin-source.js:45
+msgid "Icon (Safelayout)"
+msgstr ""
+
+#: safelayout-elegant-icons.php:157
+msgid "Settings"
+msgstr ""
+
+#: safelayout-elegant-icons.php:190
+msgid "Blocks By Safelayout"
+msgstr ""
+
+#: safelayout-elegant-icons.php:264
+#, php-format
+msgid ""
+"Howdy, %1$s! Thank you for using %2$s! Could you please do us a BIG favor "
+"and %3$s? Just to help us spread the word and boost our motivation.%4$s"
+msgstr ""
+
+#: safelayout-elegant-icons.php:268 safelayout-elegant-icons.php:307
+msgid "Safelayout Elegant Icons"
+msgstr ""
+
+#: safelayout-elegant-icons.php:269
+msgid "give it a 5-star rating on WordPress.org"
+msgstr ""
+
+#: safelayout-elegant-icons.php:270 safelayout-elegant-icons.php:310
+msgid "We really appreciate your support!"
+msgstr ""
+
+#: safelayout-elegant-icons.php:276
+msgid "Yes, I will help ★★★★★"
+msgstr ""
+
+#: safelayout-elegant-icons.php:278 safelayout-elegant-icons.php:319
+msgid "Remind me later"
+msgstr ""
+
+#: safelayout-elegant-icons.php:279
+msgid "I already did"
+msgstr ""
+
+#: safelayout-elegant-icons.php:303
+#, php-format
+msgid ""
+"Howdy, %1$s! Thank you for using %2$s! Please consider %3$s, get full "
+"features and %4$s.%5$s"
+msgstr ""
+
+#: safelayout-elegant-icons.php:308
+msgid "upgrading to the PRO version"
+msgstr ""
+
+#: safelayout-elegant-icons.php:309
+msgid "support the developer"
+msgstr ""
+
+#: safelayout-elegant-icons.php:316 src/box-button/controls.js:654
+#: src/box-ribbon/controls.js:391 src/icon/controls.js:692
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: safelayout-elegant-icons.php:406
+msgid "Quick Feedback"
+msgstr ""
+
+#: safelayout-elegant-icons.php:409
+msgid "If you have a moment, please share why you are deactivating"
+msgstr ""
+
+#: safelayout-elegant-icons.php:414
+msgid "It's a temporary deactivation"
+msgstr ""
+
+#: safelayout-elegant-icons.php:418
+msgid "The plugin broke my site"
+msgstr ""
+
+#: safelayout-elegant-icons.php:419
+msgid "Please explain the problem."
+msgstr ""
+
+#: safelayout-elegant-icons.php:423
+msgid "I found a better plugin"
+msgstr ""
+
+#: safelayout-elegant-icons.php:424
+msgid "What's the plugin name?"
+msgstr ""
+
+#: safelayout-elegant-icons.php:428
+msgid "Other"
+msgstr ""
+
+#: safelayout-elegant-icons.php:429
+msgid "Please share the reason."
+msgstr ""
+
+#: safelayout-elegant-icons.php:433
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: safelayout-elegant-icons.php:434
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: safelayout-elegant-icons.php:437
+msgid "Wait ..."
+msgstr ""
+
+#: safelayout-elegant-icons.php:438
+msgid "Redirecting ..."
+msgstr ""
+
+#: safelayout-elegant-icons.php:484 safelayout-elegant-icons.php:498
+msgid "Safelayout Elegant Icons Options"
+msgstr ""
+
+#: safelayout-elegant-icons.php:485
+msgid "Safelayout Icons"
+msgstr ""
+
+#: safelayout-elegant-icons.php:506
+msgid "Safelayout Elegant Icons Installed Packs"
+msgstr ""
+
+#: safelayout-elegant-icons.php:509
+msgid "No."
+msgstr ""
+
+#: safelayout-elegant-icons.php:510
+msgid "Pack Name"
+msgstr ""
+
+#: safelayout-elegant-icons.php:511
+msgid "Pack Status"
+msgstr ""
+
+#: safelayout-elegant-icons.php:522
+msgid "Active"
+msgstr ""
+
+#: safelayout-elegant-icons.php:529
+msgid "Save Changes"
+msgstr ""
+
+#: src/box-button/controls.js:159 src/box-ribbon/controls.js:111
+msgid "Bold"
+msgstr ""
+
+#: src/box-button/controls.js:165 src/box-ribbon/controls.js:117
+msgid "Italic"
+msgstr ""
+
+#: src/box-button/controls.js:171 src/box-ribbon/controls.js:123
+msgid "Uppercase"
+msgstr ""
+
+#: src/box-button/controls.js:180
+msgid "Button effect"
+msgstr ""
+
+#: src/box-button/controls.js:201 src/icon/controls.js:641 src/mce/index.js:585
+msgid "Link and Title"
+msgstr ""
+
+#: src/box-button/controls.js:207 src/icon/controls.js:647 src/mce/index.js:591
+msgid "Tooltip"
+msgstr ""
+
+#: src/box-button/controls.js:212 src/icon/controls.js:652 src/mce/index.js:596
+msgid "Label"
+msgstr ""
+
+#: src/box-button/controls.js:215 src/icon/controls.js:655 src/mce/index.js:599
+msgid "It is for screen readers."
+msgstr ""
+
+#: src/box-button/controls.js:220 src/icon/controls.js:660 src/mce/index.js:604
+msgid "Link url"
+msgstr ""
+
+#: src/box-button/controls.js:239 src/icon/controls.js:679 src/mce/index.js:623
+msgid "Link rel"
+msgstr ""
+
+#: src/box-button/controls.js:247 src/icon/controls.js:323
+#: src/icon/controls.js:328 src/mce/index.js:249 src/text-icon/index.js:279
+msgid "Size"
+msgstr ""
+
+#: src/box-button/controls.js:275
+msgid "Width"
+msgstr ""
+
+#: src/box-button/controls.js:277
+msgid "Button width"
+msgstr ""
+
+#: src/box-button/controls.js:300 src/box-button/controls.js:485
+#: src/icon-box/controls.js:384
+msgid "Reset"
+msgstr ""
+
+#: src/box-button/controls.js:306 src/box-ribbon/controls.js:190
+#: src/icon-box/effects.js:98 src/icon-box/effects.js:103
+msgid "Color"
+msgstr ""
+
+#: src/box-button/controls.js:313
+msgid "Add a background color to the button."
+msgstr ""
+
+#: src/box-button/controls.js:314 src/box-button/controls.js:320
+#: src/box-ribbon/controls.js:197 src/icon-box/controls.js:302
+#: src/icon-box/controls.js:310 src/icon-box/controls.js:316
+#: src/icon/controls.js:399 src/icon/controls.js:412 src/mce/index.js:361
+#: src/mce/index.js:374 src/text-icon/index.js:353 src/text-icon/index.js:366
+msgid "Background color"
+msgstr ""
+
+#: src/box-button/controls.js:327 src/box-ribbon/controls.js:203
+msgid "Text color"
+msgstr ""
+
+#: src/box-button/controls.js:336 src/box-button/controls.js:352
+#: src/icon/controls.js:260 src/icon/index.js:18 src/mce/index.js:173
+#: src/text-icon/index.js:87 src/text-icon/index.js:203
+msgid "Icon"
+msgstr ""
+
+#: src/box-button/controls.js:342
+msgid "Add an icon to the button."
+msgstr ""
+
+#: src/box-button/controls.js:343
+msgid "Add icon"
+msgstr ""
+
+#: src/box-button/controls.js:380 src/icon-box/controls.js:191
+msgid "Icon position"
+msgstr ""
+
+#: src/box-button/controls.js:390 src/icon-box/controls.js:200
+msgid "Left"
+msgstr ""
+
+#: src/box-button/controls.js:395 src/icon-box/controls.js:208
+msgid "Right"
+msgstr ""
+
+#: src/box-button/controls.js:401 src/icon/controls.js:361 src/mce/index.js:323
+#: src/text-icon/index.js:315
+msgid "Icon Fill Color"
+msgstr ""
+
+#: src/box-button/controls.js:420 src/icon/controls.js:379 src/mce/index.js:341
+#: src/text-icon/index.js:333
+msgid "Icon Stroke Color"
+msgstr ""
+
+#: src/box-button/controls.js:438 src/icon/controls.js:433 src/mce/index.js:395
+#: src/text-icon/index.js:387
+msgid "Icon Stroke Width"
+msgstr ""
+
+#: src/box-button/controls.js:456
+msgid "Icon gap"
+msgstr ""
+
+#: src/box-button/controls.js:470 src/box-ribbon/controls.js:212
+#: src/icon-box/controls.js:369
+msgid "Border"
+msgstr ""
+
+#: src/box-button/controls.js:488 src/icon-box/controls.js:387
+msgid "Border radius"
+msgstr ""
+
+#: src/box-button/controls.js:496 src/box-button/controls.js:502
+msgid "Box shadow"
+msgstr ""
+
+#: src/box-button/controls.js:508 src/box-button/controls.js:557
+#: src/box-ribbon/controls.js:280 src/box-ribbon/controls.js:329
+#: src/icon/controls.js:472 src/icon/controls.js:523 src/mce/index.js:434
+#: src/mce/index.js:485 src/text-icon/index.js:426
+msgid "color"
+msgstr ""
+
+#: src/box-button/controls.js:515 src/box-button/controls.js:564
+#: src/box-ribbon/controls.js:287 src/box-ribbon/controls.js:336
+#: src/icon/controls.js:479 src/icon/controls.js:530 src/mce/index.js:441
+#: src/mce/index.js:492 src/text-icon/index.js:433
+msgid "blur"
+msgstr ""
+
+#: src/box-button/controls.js:524 src/box-button/controls.js:573
+#: src/box-ribbon/controls.js:296 src/box-ribbon/controls.js:345
+#: src/icon/controls.js:489 src/icon/controls.js:540 src/mce/index.js:451
+#: src/mce/index.js:502 src/text-icon/index.js:443
+msgid "X offset"
+msgstr ""
+
+#: src/box-button/controls.js:533 src/box-button/controls.js:582
+#: src/box-ribbon/controls.js:305 src/box-ribbon/controls.js:354
+#: src/icon/controls.js:498 src/icon/controls.js:549 src/mce/index.js:460
+#: src/mce/index.js:511 src/text-icon/index.js:452
+msgid "Y offset"
+msgstr ""
+
+#: src/box-button/controls.js:545 src/box-button/controls.js:551
+#: src/box-ribbon/controls.js:317 src/box-ribbon/controls.js:323
+msgid "Text shadow"
+msgstr ""
+
+#: src/box-button/controls.js:594 src/icon/controls.js:602 src/mce/index.js:564
+msgid "Hover animation"
+msgstr ""
+
+#: src/box-button/controls.js:631 src/box-ribbon/controls.js:366
+#: src/icon/controls.js:623
+msgid "Block spacing"
+msgstr ""
+
+#: src/box-button/controls.js:636 src/box-ribbon/controls.js:371
+#: src/icon/controls.js:628
+msgid "Margin"
+msgstr ""
+
+#: src/box-button/controls.js:641 src/box-ribbon/controls.js:377
+#: src/icon/controls.js:633
+msgid "Padding"
+msgstr ""
+
+#: src/box-button/controls.js:649 src/box-ribbon/controls.js:386
+#: src/icon/controls.js:687
+msgid "https://safelayout.com"
+msgstr ""
+
+#: src/box-button/controls.js:652 src/box-ribbon/controls.js:389
+#: src/icon/controls.js:690
+msgid "Upgrade to pro version and get full features."
+msgstr ""
+
+#: src/box-button/edit.js:105
+msgid "Read More"
+msgstr ""
+
+#: src/box-button/effects.js:99 src/icon-box/effects.js:281
+msgid "Animation Background color"
+msgstr ""
+
+#: src/box-button/effects.js:106 src/icon-box/effects.js:300
+msgid "Animation Text color"
+msgstr ""
+
+#: src/box-button/effects.js:113 src/icon-box/effects.js:294
+msgid "Animation Border color"
+msgstr ""
+
+#: src/box-button/effects.js:120
+msgid "Animation Text and Border color"
+msgstr ""
+
+#: src/box-button/effects.js:127 src/box-button/effects.js:134
+#: src/icon-box/effects.js:321 src/icon-box/effects.js:328
+#: src/icon-box/effects.js:335 src/icon-box/effects.js:342
+msgid "Animation Stretch color"
+msgstr ""
+
+#: src/box-button/effects.js:141 src/box-button/effects.js:148
+#: src/box-button/effects.js:155 src/box-button/effects.js:162
+#: src/icon-box/effects.js:349 src/icon-box/effects.js:356
+#: src/icon-box/effects.js:363 src/icon-box/effects.js:370
+msgid "Animation Slide color"
+msgstr ""
+
+#: src/box-button/index.js:15
+msgid "Box Button (Safelayout)"
+msgstr ""
+
+#: src/box-button/index.js:16
+msgid "Icon box button."
+msgstr ""
+
+#: src/box-ribbon/controls.js:132
+msgid "Ribbon effect"
+msgstr ""
+
+#: src/box-ribbon/controls.js:153
+msgid "Size and Position"
+msgstr ""
+
+#: src/box-ribbon/controls.js:179
+msgid "Position"
+msgstr ""
+
+#: src/box-ribbon/controls.js:218
+msgid "Add a border to the ribbon."
+msgstr ""
+
+#: src/box-ribbon/controls.js:219
+msgid "Ribbon border"
+msgstr ""
+
+#: src/box-ribbon/controls.js:225
+msgid "Border color"
+msgstr ""
+
+#: src/box-ribbon/controls.js:235 src/icon-box/controls.js:395
+msgid "Background pattern"
+msgstr ""
+
+#: src/box-ribbon/controls.js:240 src/icon-box/controls.js:400
+msgid "Pattern opacity"
+msgstr ""
+
+#: src/box-ribbon/controls.js:268 src/box-ribbon/controls.js:274
+#: src/icon/controls.js:510 src/icon/controls.js:516 src/mce/index.js:472
+#: src/mce/index.js:478
+msgid "Background shadow"
+msgstr ""
+
+#: src/box-ribbon/index.js:14
+msgid "Box Ribbon (Safelayout)"
+msgstr ""
+
+#: src/box-ribbon/index.js:15
+msgid "Icon box ribbon."
+msgstr ""
+
+#: src/container/index.js:15
+msgid "Container (Safelayout)"
+msgstr ""
+
+#: src/container/index.js:16
+msgid "Container block."
+msgstr ""
+
+#: src/icon-box/controls.js:204 src/icon-box/controls.js:224
+#: src/icon/controls.js:572 src/mce/index.js:534 src/text-icon/index.js:475
+msgid "Top"
+msgstr ""
+
+#: src/icon-box/controls.js:214
+msgid "vertical align"
+msgstr ""
+
+#: src/icon-box/controls.js:228
+msgid "Center"
+msgstr ""
+
+#: src/icon-box/controls.js:232
+msgid "Bottom"
+msgstr ""
+
+#: src/icon-box/controls.js:240
+msgid "Box effect"
+msgstr ""
+
+#: src/icon-box/controls.js:260
+msgid "Effect property"
+msgstr ""
+
+#: src/icon-box/controls.js:309
+msgid "Add a background color to the icon box."
+msgstr ""
+
+#: src/icon-box/controls.js:325 src/icon-box/controls.js:332
+msgid "Read More button"
+msgstr ""
+
+#: src/icon-box/controls.js:331
+msgid "Add a Read More button to the icon box."
+msgstr ""
+
+#: src/icon-box/controls.js:347 src/icon-box/controls.js:354
+msgid "Ribbon"
+msgstr ""
+
+#: src/icon-box/controls.js:353
+msgid "Add a Ribbon to the icon box."
+msgstr ""
+
+#: src/icon-box/edit.js:46 src/icon-box/index.js:46
+msgid "Heading"
+msgstr ""
+
+#: src/icon-box/edit.js:47 src/icon-box/index.js:52
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: src/icon-box/effects.js:99 src/icon-box/effects.js:104
+msgid "Inner shadow"
+msgstr ""
+
+#: src/icon-box/effects.js:288
+msgid "Animation Effect color"
+msgstr ""
+
+#: src/icon-box/effects.js:307 src/icon-box/effects.js:314
+msgid "Animation Split color"
+msgstr ""
+
+#: src/icon-box/index.js:16
+msgid "Icon Box (Safelayout)"
+msgstr ""
+
+#: src/icon-box/index.js:17
+msgid "Beautiful SVG icon box."
+msgstr ""
+
+#: src/icon-box/index.js:19
+msgid "Icon box"
+msgstr ""
+
+#: src/icon-box/index.js:20
+msgid "Icons box"
+msgstr ""
+
+#: src/icon-box/index.js:21 src/icon/index.js:20 src/text-icon/index.js:88
+msgid "Safelayout"
+msgstr ""
+
+#: src/icon-box/index.js:22 src/icon/index.js:21 src/text-icon/index.js:89
+msgid "Elegant"
+msgstr ""
+
+#: src/icon/color-picker.js:84
+msgid "Solid"
+msgstr ""
+
+#: src/icon/color-picker.js:89
+msgid "Gradient"
+msgstr ""
+
+#: src/icon/controls.js:193 src/mce/index.js:285
+msgid "Rotate"
+msgstr ""
+
+#: src/icon/controls.js:199 src/mce/index.js:292
+msgid "Flip horizontal"
+msgstr ""
+
+#: src/icon/controls.js:205 src/mce/index.js:299
+msgid "Flip vertical"
+msgstr ""
+
+#: src/icon/controls.js:213 src/mce/index.js:306
+msgid "Rotate background"
+msgstr ""
+
+#: src/icon/controls.js:221
+msgid "Add this icon to custom list"
+msgstr ""
+
+#: src/icon/controls.js:236
+msgid "Icon name"
+msgstr ""
+
+#: src/icon/controls.js:245
+msgid "Add to custom"
+msgstr ""
+
+#: src/icon/controls.js:286 src/mce/index.js:199 src/text-icon/index.js:229
+msgid "Icon effect"
+msgstr ""
+
+#: src/icon/controls.js:333 src/mce/index.js:257 src/text-icon/index.js:287
+msgid "background padding"
+msgstr ""
+
+#: src/icon/controls.js:342 src/mce/index.js:266 src/text-icon/index.js:296
+msgid "background radius"
+msgstr ""
+
+#: src/icon/controls.js:354 src/mce/index.js:316 src/text-icon/index.js:308
+msgid "Icon color"
+msgstr ""
+
+#: src/icon/controls.js:406 src/mce/index.js:368 src/text-icon/index.js:360
+msgid "Add a background shape to the icon."
+msgstr ""
+
+#: src/icon/controls.js:407 src/mce/index.js:369 src/text-icon/index.js:361
+msgid "Background shape"
+msgstr ""
+
+#: src/icon/controls.js:419 src/mce/index.js:381 src/text-icon/index.js:373
+msgid "Background Stroke Color"
+msgstr ""
+
+#: src/icon/controls.js:428 src/mce/index.js:390 src/text-icon/index.js:382
+msgid "Stroke width"
+msgstr ""
+
+#: src/icon/controls.js:448 src/mce/index.js:410 src/text-icon/index.js:402
+msgid "background stroke width"
+msgstr ""
+
+#: src/icon/controls.js:460 src/icon/controls.js:466 src/mce/index.js:422
+#: src/mce/index.js:428 src/text-icon/index.js:414 src/text-icon/index.js:420
+msgid "Icon shadow"
+msgstr ""
+
+#: src/icon/controls.js:561 src/icon/controls.js:567 src/mce/index.js:523
+#: src/mce/index.js:529 src/text-icon/index.js:464 src/text-icon/index.js:470
+msgid "Base shadow"
+msgstr ""
+
+#: src/icon/controls.js:581 src/mce/index.js:543 src/text-icon/index.js:484
+msgid "width"
+msgstr ""
+
+#: src/icon/controls.js:590 src/mce/index.js:552 src/text-icon/index.js:493
+msgid "height"
+msgstr ""
+
+#: src/icon/controls.js:771
+msgid "one"
+msgstr ""
+
+#: src/icon/controls.js:772
+msgid "two"
+msgstr ""
+
+#: src/icon/controls.js:773
+msgid "three"
+msgstr ""
+
+#: src/icon/controls.js:774
+msgid "four"
+msgstr ""
+
+#: src/icon/controls.js:775
+msgid "five"
+msgstr ""
+
+#: src/icon/index.js:16
+msgid "Beautiful SVG icons."
+msgstr ""
+
+#: src/icon/index.js:19
+msgid "Icons"
+msgstr ""
+
+#: src/mce/index.js:236 src/text-icon/index.js:266
+msgid "Position & Size"
+msgstr ""
+
+#: src/mce/index.js:241 src/text-icon/index.js:271
+msgid "top"
+msgstr ""
+
+#: src/mce/index.js:278
+msgid "Transform"
+msgstr ""
+
+#: src/mce/index.js:631
+msgid "Advanced"
+msgstr ""
+
+#: src/mce/index.js:637
+msgid "Additional CSS class(es)"
+msgstr ""
+
+#: src/mce/index.js:640
+msgid "Separate multiple classes with spaces."
+msgstr ""
+
+#: src/text-icon/index.js:126
+msgid "Insert Icon (Safelayout)"
+msgstr ""
